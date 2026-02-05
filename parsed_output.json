@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "document": "Form1.pdf",
+    "source": "acroform"
+  },
+  "data": {
+    "Option 1": "/On",
+    "Option 2": "/On",
+    "Option 3": "not_provided",
+    "Name of Dependent": "Adnan",
+    "Age\t of Dependent": "23",
+    "Name": "Ahmad Hammoud",
+    "Dropdown2": "Choice 1"
+  },
+  "text": "Sample Fillable PDF \nThis is an example of a fillable PDF. A client can save it and email it back to you, or print it and \nbring it along with them to a meeting with you.\nPlease enter your name: \nPlease select an item from the combo/dropdown list: \nFirst Choice \nCheck all that apply: \nOption 1 \nOption 2 \nOption 3 \nYou can add  fields within tables as well: \nName of Dependent \nAge of Dependent \nAhmad Hammoud\nChoice 1\nAdnan\n23",
+  "ocr_pages": {},
+  "rules": {
+    "llm_instruction": "Use ONLY the provided fields. Do not invent missing values."
+  }
+}
