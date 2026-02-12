@@ -1,0 +1,1335 @@
+{
+  "meta": {
+    "document": "testing_redacted_document.pdf",
+    "pages": 28,
+    "dpi": 300,
+    "doc_type": "form_widgets",
+    "preferred_extraction": "acroform",
+    "items_in": 766,
+    "items_out": 219
+  },
+  "llm_fields": [
+    {
+      "page": 1,
+      "key": "Family Name",
+      "value": "Owens",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "Given Name",
+      "value": "Jack",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "Middle Name",
+      "value": "Ugurde",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "Companyor Org Name",
+      "value": "Path Immigration Inc",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "In Careof Name",
+      "value": "John Doe",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "Street Number Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "Apt Ste Flr Number",
+      "value": "820",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "City Town",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "Line3 State",
+      "value": "NY",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "Line3 Zip Code",
+      "value": "10036",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "Line3 Country",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "Email Address",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "Text Field1",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 2,
+      "key": "Classification Symbol",
+      "value": "O-1A Extraordinary Ability",
+      "source": "acroform"
+    },
+    {
+      "page": 2,
+      "key": "Ttl Numbersof Worker",
+      "value": "1",
+      "source": "acroform"
+    },
+    {
+      "page": 2,
+      "key": "Line2 Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 2,
+      "key": "Line2 Given Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 2,
+      "key": "Date Of Birth",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 2,
+      "key": "Ssn",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Country Of Birth",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Dprovince",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Country Of Citizenship",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Dateof Arrival",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Arrival Departure",
+      "value": "7541578347A",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Passportor Trav Doc",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Exp Date",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Exp Date",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Country Of Issuance",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Current Non",
+      "value": "L1B",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Date Status Expires",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Street Number Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Apt Ste Flr Number",
+      "value": "2",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "City Town",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "State",
+      "value": "NY",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Zip Code",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Office Address City",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "1C State Or Country",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Street Number Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "City Town",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Postal Code",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "Country",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 4,
+      "key": "Q1 Job Title",
+      "value": "Co-Founder and Chief Technology Officer",
+      "source": "acroform"
+    },
+    {
+      "page": 5,
+      "key": "Yes",
+      "value": "Y",
+      "source": "acroform"
+    },
+    {
+      "page": 5,
+      "key": "Okmglxuqo2Oyv0F6Hdyvlj140Vyb22Adio",
+      "value": "Stock options and standard benefits.",
+      "source": "acroform"
+    },
+    {
+      "page": 5,
+      "key": "Q10 Date From",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 5,
+      "key": "Q10 Date To",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 5,
+      "key": "Typeof Business",
+      "value": "Technology Startup",
+      "source": "acroform"
+    },
+    {
+      "page": 5,
+      "key": "Year Established",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 5,
+      "key": "Numberof Employees",
+      "value": "2",
+      "source": "acroform"
+    },
+    {
+      "page": 5,
+      "key": "Gross Annual Income",
+      "value": "Startup Funding",
+      "source": "acroform"
+    },
+    {
+      "page": 6,
+      "key": "Petitioner First Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 6,
+      "key": "Petitioner Last Name",
+      "value": "Chief Executive Officer",
+      "source": "acroform"
+    },
+    {
+      "page": 6,
+      "key": "Email Address",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 7,
+      "key": "Preparer Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 7,
+      "key": "Preparer Given Name",
+      "value": "Wells",
+      "source": "acroform"
+    },
+    {
+      "page": 7,
+      "key": "Business Name",
+      "value": "Project Law Group PLLC",
+      "source": "acroform"
+    },
+    {
+      "page": 7,
+      "key": "Street Number Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 7,
+      "key": "City Town",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 7,
+      "key": "Line3 State",
+      "value": "MA",
+      "source": "acroform"
+    },
+    {
+      "page": 7,
+      "key": "Line3 Zip Code",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 7,
+      "key": "Line3 Country",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 7,
+      "key": "Daytime Phone Number1",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 7,
+      "key": "Daytime Phone Number1",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 7,
+      "key": "Email Address",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 9,
+      "key": "Family Name",
+      "value": "Path Immigration Inc",
+      "source": "acroform"
+    },
+    {
+      "page": 9,
+      "key": "Hsup Line2 Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 9,
+      "key": "Qwyl5So4Mpayaz2Yomgifqz88749Nxscnt8G",
+      "value": "Business Development and Innovation",
+      "source": "acroform"
+    },
+    {
+      "page": 9,
+      "key": "Hcui9Jop5Q9Twc78Dbaarvplvre09Fmhldb",
+      "value": "See Job Offer Letter",
+      "source": "acroform"
+    },
+    {
+      "page": 11,
+      "key": "Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 11,
+      "key": "Email Address",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 12,
+      "key": "Check Box1",
+      "value": "1",
+      "source": "acroform"
+    },
+    {
+      "page": 12,
+      "key": "Atty State Bar Number",
+      "value": "24058164",
+      "source": "acroform"
+    },
+    {
+      "page": 12,
+      "key": "Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 12,
+      "key": "Given Name",
+      "value": "Wells",
+      "source": "acroform"
+    },
+    {
+      "page": 12,
+      "key": "Line6 Companyor Organization Name",
+      "value": "Path Immigration Inc",
+      "source": "acroform"
+    },
+    {
+      "page": 12,
+      "key": "Line5 Mailing Address In Careof Name",
+      "value": "Project Law Group PLLC",
+      "source": "acroform"
+    },
+    {
+      "page": 12,
+      "key": "Line5 Mailing Address Street Number Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 12,
+      "key": "Line5 Mailing Address City Town",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 12,
+      "key": "Line5 Mailing Address State",
+      "value": "MA",
+      "source": "acroform"
+    },
+    {
+      "page": 12,
+      "key": "Zip Code",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 12,
+      "key": "Line5 Mailing Address Country",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 13,
+      "key": "Line1 Form Numberof",
+      "value": "I-129",
+      "source": "acroform"
+    },
+    {
+      "page": 13,
+      "key": "Line2 Classor Elig Requested",
+      "value": "O-1A",
+      "source": "acroform"
+    },
+    {
+      "page": 13,
+      "key": "Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 13,
+      "key": "Given Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 13,
+      "key": "Line8 Name Of Company Poc Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 13,
+      "key": "Line8 Name Of Company Poc Given Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 13,
+      "key": "Line8 Name Of Company Poc Titleof Poc",
+      "value": "Chief Executive Officer",
+      "source": "acroform"
+    },
+    {
+      "page": 13,
+      "key": "Line9 Company Irstax Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 14,
+      "key": "Line7 Other Information About Company Org Street Number Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 14,
+      "key": "Line7 Other Information About Company Org Apt Ste Flr Number",
+      "value": "820",
+      "source": "acroform"
+    },
+    {
+      "page": 14,
+      "key": "Line7 Other Information About Company Org City Town",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 14,
+      "key": "Line7 Other Information About Company Org State",
+      "value": "NY",
+      "source": "acroform"
+    },
+    {
+      "page": 14,
+      "key": "Line7 Other Information About Company Org Zip Code",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 14,
+      "key": "Line7 Other Information About Company Org Country",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 14,
+      "key": "Line2 Nameof Representative",
+      "value": "Wells T Wakefield",
+      "source": "acroform"
+    },
+    {
+      "page": 14,
+      "key": "Line4 Daytime Tele Phone Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 14,
+      "key": "Line5 Mobile Tele Phone Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 14,
+      "key": "Line5 Mobile Tele Phone Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 14,
+      "key": "Line6 Email",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "Line1 Preparer Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "Line1 Preparer Given Name",
+      "value": "Wells",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "Line2 Nameof Businessor Org Name",
+      "value": "Project Law Group PLLC",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "Line3 Street Number Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "Line3 City Town",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "Line3 State",
+      "value": "MA",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "Line3 Zip Code",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "Line3 Country",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "Line4 Daytime Tele Phone Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "Line5 Fax Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "Line6 Email Address",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 18,
+      "key": "Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 18,
+      "key": "Given Name",
+      "value": "Wells",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Given Name",
+      "value": "Wells",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Licensing Authority",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Middle Name",
+      "value": "T",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Bar Number",
+      "value": "24058164",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Street Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "City Or Town",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "State",
+      "value": "MA",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Zip Code",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Nameof Firm Or Organization",
+      "value": "Project Law Group PLLC",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Country",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Daytime Telephone Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Mobile Telephone Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Email",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Item Number7 Fax Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 20,
+      "key": "Mobile Telephone Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 20,
+      "key": "Email",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 20,
+      "key": "List Form Number",
+      "value": "I-129",
+      "source": "acroform"
+    },
+    {
+      "page": 20,
+      "key": "Street Number Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 20,
+      "key": "Apt Ste Flr Number",
+      "value": "2",
+      "source": "acroform"
+    },
+    {
+      "page": 20,
+      "key": "City Or Town",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 20,
+      "key": "State",
+      "value": "NY",
+      "source": "acroform"
+    },
+    {
+      "page": 20,
+      "key": "Zip Code",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 20,
+      "key": "Country",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 20,
+      "key": "Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 20,
+      "key": "Given Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 22,
+      "key": "Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 22,
+      "key": "Given Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 23,
+      "key": "Given Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 23,
+      "key": "Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 23,
+      "key": "Email",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 24,
+      "key": "Last Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 24,
+      "key": "First Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 24,
+      "key": "Email",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 24,
+      "key": "Mobile Phone Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Given Name",
+      "value": "Wells",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Licensing Authority",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Middle Name",
+      "value": "T",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Bar Number",
+      "value": "24058164",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Street Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "City Or Town",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "State",
+      "value": "MA",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Zip Code",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Nameof Firm Or Organization",
+      "value": "Project Law Group PLLC",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Country",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Daytime Telephone Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Mobile Telephone Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Email",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Item Number7 Fax Number",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "Email",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "List Form Number",
+      "value": "I-129",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "Street Number Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "Apt Ste Flr Number",
+      "value": "820",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "City Or Town",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "State",
+      "value": "NY",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "Zip Code",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "Country",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "Given Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "Name Of Entity",
+      "value": "Path Immigration Inc",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "Titleof Entity",
+      "value": "Chief Executive Officer",
+      "source": "acroform"
+    },
+    {
+      "page": 28,
+      "key": "Family Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 28,
+      "key": "Given Name",
+      "value": "[Redacted]",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "Ste.",
+      "value": "820",
+      "source": "acroform"
+    },
+    {
+      "page": 1,
+      "key": "Flr.",
+      "value": "820",
+      "source": "acroform"
+    },
+    {
+      "page": 2,
+      "key": "Basis Part 2.",
+      "value": "b. Continuation of previously approved employment without change with the same employer.",
+      "source": "acroform"
+    },
+    {
+      "page": 2,
+      "key": "Requested beneficiary. Provide",
+      "value": [
+        "a. or be admitted. (NOTE: A petition is not required for",
+        "b."
+      ],
+      "source": "acroform"
+    },
+    {
+      "page": 2,
+      "key": "[Redacted]",
+      "value": "Male Female ► [ R e d a c t e d ]",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "box): one only (select",
+      "value": "Consulate Pre-flight inspection Port of Entry",
+      "source": "acroform"
+    },
+    {
+      "page": 3,
+      "key": "passport? valid a have petition this in person each Does",
+      "value": "Yes No. If no, go to Part 9. and type or print your",
+      "source": "acroform"
+    },
+    {
+      "page": 4,
+      "key": "N/A ► many? how yes, If Yes.",
+      "value": "No",
+      "source": "acroform"
+    },
+    {
+      "page": 4,
+      "key": "name(s). beneficiary's(ies) the list and 9. Part to proceed yes,",
+      "value": "No",
+      "source": "acroform"
+    },
+    {
+      "page": 4,
+      "key": "Did Have Is any Are",
+      "value": "Yes. If yes, answer the questions below. No. If no, proceed to Item Number 9.",
+      "source": "acroform"
+    },
+    {
+      "page": 4,
+      "key": "explanation. your print or type and 9. Part to proceed",
+      "value": "No",
+      "source": "acroform"
+    },
+    {
+      "page": 4,
+      "key": "11.b. Number Item to proceed yes, If Yes.",
+      "value": "No",
+      "source": "acroform"
+    },
+    {
+      "page": 5,
+      "key": "Yes",
+      "value": "No",
+      "source": "acroform"
+    },
+    {
+      "page": 5,
+      "key": "Yes location? organization's or company another at",
+      "value": "No",
+      "source": "acroform"
+    },
+    {
+      "page": 5,
+      "key": "Yes (CNMI)? Islands Mariana Northern the of Commonwealth",
+      "value": "No",
+      "source": "acroform"
+    },
+    {
+      "page": 6,
+      "key": "1.",
+      "value": "A license is not required from either the U.S. Department of Commerce or the U.S. Department of State to release such",
+      "source": "acroform"
+    },
+    {
+      "page": 7,
+      "key": "Ste. of Immigration Name)",
+      "value": "N/A",
+      "source": "acroform"
+    },
+    {
+      "page": 9,
+      "key": "Classification Provide OR [Redacted] Name Name of the",
+      "value": "a. O-1A Alien of extraordinary ability in sciences, education, business or athletics (not including the arts, motion picture or",
+      "source": "acroform"
+    },
+    {
+      "page": 9,
+      "key": "Does N/A N/A N/A If filing N/A N/A",
+      "value": "If yes, please explain in Item Number 7.b. No.",
+      "source": "acroform"
+    },
+    {
+      "page": 10,
+      "key": "an Yes Does 8.",
+      "value": "If no, proceed to Part 9. and type or print your explanation.",
+      "source": "acroform"
+    },
+    {
+      "page": 10,
+      "key": "attached request of copy - No Yes",
+      "value": "N/A",
+      "source": "acroform"
+    },
+    {
+      "page": 12,
+      "key": "address? physical your as same the",
+      "value": "Yes No",
+      "source": "acroform"
+    },
+    {
+      "page": 13,
+      "key": "Request N/A Province N/A City N/A",
+      "value": "I am the attorney or accredited representative for the petitioner who is filing or has filed a petition eligible for Premium",
+      "source": "acroform"
+    },
+    {
+      "page": 14,
+      "key": "A.",
+      "value": "I can read and understand English, and I have read and understand every question and instruction on this request and",
+      "source": "acroform"
+    },
+    {
+      "page": 14,
+      "key": "Requestor's B. A. Requestor's NOTE: Select",
+      "value": "At my request, the preparer named in Part 5., Wells T Wakefield ,",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "Ste. (First",
+      "value": "N/A",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "B.",
+      "value": "I am an attorney or accredited representative and my representation of the requestor in this case",
+      "source": "acroform"
+    },
+    {
+      "page": 16,
+      "key": "I am requestor's I am Preparer's [Redacted] Preparer's [Redacted]",
+      "value": "extends does not extend beyond the preparation of this request.",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "1.a. A / N ►",
+      "value": "I am an attorney eligible to practice law in, and a",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "box) order one any only to (select subject I 1.c.",
+      "value": "am not am",
+      "source": "acroform"
+    },
+    {
+      "page": 19,
+      "key": "Apt. 3.b.",
+      "value": "Ste. N/A",
+      "source": "acroform"
+    },
+    {
+      "page": 20,
+      "key": "1.a.",
+      "value": "U.S. Citizenship and Immigration Services (USCIS) 12. Email Address (if any)",
+      "source": "acroform"
+    },
+    {
+      "page": 20,
+      "key": "representative I enter Receipt N/A List",
+      "value": "Applicant Petitioner Requestor",
+      "source": "acroform"
+    },
+    {
+      "page": 21,
+      "key": "1.a.",
+      "value": "I request that USCIS send original notices on an",
+      "source": "acroform"
+    },
+    {
+      "page": 21,
+      "key": "1.b.",
+      "value": "I request that USCIS send any secure identity",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "1.a. A / N ►",
+      "value": "I am an attorney eligible to practice law in, and a",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "box) order one any only to (select subject I 1.c.",
+      "value": "am not am",
+      "source": "acroform"
+    },
+    {
+      "page": 25,
+      "key": "Apt. 3.b.",
+      "value": "Ste. N/A",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "1.a.",
+      "value": "U.S. Citizenship and Immigration Services (USCIS) 12. Email Address (if any)",
+      "source": "acroform"
+    },
+    {
+      "page": 26,
+      "key": "Applicant",
+      "value": "Petitioner Requestor",
+      "source": "acroform"
+    },
+    {
+      "page": 27,
+      "key": "1.a.",
+      "value": "I request that USCIS send original notices on an",
+      "source": "acroform"
+    },
+    {
+      "page": 27,
+      "key": "1.b.",
+      "value": "I request that USCIS send any secure identity",
+      "source": "acroform"
+    }
+  ],
+  "llm_rules": [
+    "Use llm_fields as structured data.",
+    "Do not invent missing values.",
+    "If duplicate keys exist, prefer non-empty values and earlier pages."
+  ]
+}
