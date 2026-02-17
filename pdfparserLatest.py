@@ -35,33 +35,54 @@ def md_from_single_page(doc: fitz.Document, page_index: int) -> str:
     one.close()
     return (md or "").strip()
 
-def extract_page_form_fields(page: fitz.Page):
-    out = []
+def extract_page_form_fields(page: fitz.Page, y_tol: float = 3.0):
     widgets = page.widgets()
     if not widgets:
-        return out
+        return []
 
+    items = []
     for w in widgets:
         name = (w.field_name or "").strip()
-        value = w.field_value
-        value = "" if value is None else str(value).strip()
-        ftype = getattr(w, "field_type", None)
-        ftype = "" if ftype is None else str(ftype).strip()
-
         if not name:
             continue
 
-        out.append({"name": name, "value": value, "type": ftype})
+        value = w.field_value
+        value = "" if value is None else str(value).strip()
+
+        ftype = getattr(w, "field_type", None)
+        ftype = "" if ftype is None else str(ftype).strip()
+
+        r = getattr(w, "rect", None)
+        if r is None:
+            x0 = y0 = 0.0
+        else:
+            x0 = float(r.x0)
+            y0 = float(r.y0)
+
+        items.append({
+            "name": name,
+            "value": value,
+            "type": ftype,
+            "x0": x0,
+            "y0": y0,
+        })
+
+    def sort_key(it):
+        y_bucket = round(it["y0"] / y_tol)
+        return (y_bucket, it["x0"], it["name"])
+
+    items.sort(key=sort_key)
 
     seen = set()
-    dedup = []
-    for item in out:
-        k = (item["name"], item["value"])
+    out = []
+    for it in items:
+        k = (it["name"], it["value"])
         if k in seen:
             continue
         seen.add(k)
-        dedup.append(item)
-    return dedup
+        out.append({"name": it["name"], "value": it["value"], "type": it["type"]})
+
+    return out
 
 def render_fields_md(fields):
     lines = ["### Form Fields (AcroForm)\n"]
@@ -76,6 +97,7 @@ def pdf_to_markdown_clean_with_forms(
     dpi: int = 300,
     min_md_chars: int = 80,
     min_md_words: int = 15,
+    y_tol: float = 3.0,
 ):
     if not os.path.exists(pdf_path):
         raise FileNotFoundError(f"PDF not found: {pdf_path}")
@@ -89,7 +111,7 @@ def pdf_to_markdown_clean_with_forms(
 
         out.append(f"\n---\n## Page {page_num}\n")
 
-        fields = extract_page_form_fields(page)
+        fields = extract_page_form_fields(page, y_tol=y_tol)
         if fields:
             out.append(render_fields_md(fields))
             out.append("")
@@ -118,4 +140,5 @@ if __name__ == "__main__":
         pdf_path="testing_redacted_document.pdf",
         output_md_path="output_with_forms.md",
         dpi=300,
+        y_tol=3.0,
     )
