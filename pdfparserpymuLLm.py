@@ -65,7 +65,7 @@ def pdf_to_markdown_pymupdf4llm_with_ocr_fallback(
 if __name__ == "__main__":
     pdf_to_markdown_pymupdf4llm_with_ocr_fallback(
         pdf_path="testing_redacted_document.pdf",
-        output_md_path="outputPyMu4llmMD.md",
+        output_md_path="outputCleanMD.md",
         dpi=300,
     )
 
